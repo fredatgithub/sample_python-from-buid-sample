@@ -32,6 +32,7 @@ script:
   - echo $BRANCH
 
 archive: true
+
 notifications:
      email:
          recipients:
