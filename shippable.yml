@@ -3,7 +3,7 @@ build_image: drydock/u14pytpls:prod
 #build_image: shippable/minv2:beta
 
 python:
-  - 2.6
+  #- 2.6
   - 2.7
   - 3.2
   - 3.3
