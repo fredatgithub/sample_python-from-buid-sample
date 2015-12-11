@@ -36,7 +36,7 @@ archive: true
 
 
 matrix:
- allow_failure: 
+ allow_failures: 
    - python: 3.5
    - python: pypy
    
