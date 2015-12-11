@@ -35,6 +35,11 @@ script:
 archive: true
 
 
+matrix:
+ allow_failure: 
+   - python: 3.5
+   - python: pypy
+   
 notifications:
      email:
          recipients:
